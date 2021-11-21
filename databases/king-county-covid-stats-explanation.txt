@@ -1,0 +1,15 @@
+https://www.kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
+retrieved July 14, 2020, 11:00 am
+Stats as of July 13, 2020
+
+key
+Location_Name           zip code
+Population              number of residents
+Tests                   number of tests
+Test_Rate               number of tests per 1,000 people
+Positives               number of positive tests
+Positive_Rate           number of positive tests per 1,000 people
+Hospitalizations        number of hospitalizations
+Hospitalization_Rate    number of hopsitalizations per 1,000 people
+Deaths                  number of deaths
+Death_Rate              number of deaths per 1,000 people
